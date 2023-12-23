@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#10341A",
+        "titleBar.activeBackground": "#174925",
+        "titleBar.activeForeground": "#F5FCF7"
+    },
+    "cSpell.ignoreWords": [
+        "Botostart"
+    ]
+}
